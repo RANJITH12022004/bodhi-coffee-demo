@@ -2,7 +2,7 @@
 
 Full QR ordering + kitchen + stock + owner demo for **Bodhi Coffee** (JP Nagar, Bengaluru).
 
-Live: deploy URL after Vercel setup · Demo launcher: `/demo`
+Live: https://bodhi-coffee-demo.vercel.app · Demo launcher: `/demo`
 
 ## Demo PINs
 
